@@ -1,6 +1,6 @@
 # Template Github Pages site
 
-Angular 1.5 and bootstrap 3 template site, includes gulp build scripts to publish to gh-pages.
+Angular 1.5 and bootstrap 3 template site, includes gulp build scripts to publish to gh-pages, run protractor tests unit tests and full End2End feature tests. 
 
 Usual github process should be used, with regular commits and pushes to `master` branch.
 
